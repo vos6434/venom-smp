@@ -1,2 +1,171 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/alexs-caves.pw.toml"
+hash = "ec436a1f3378f8bd08ccd02e0ee74c441ff51d73bb62d446f6123eb2d6ebed6b"
+metafile = true
+
+[[files]]
+file = "mods/alexs-mobs.pw.toml"
+hash = "c7ef8f8629620ae3d9d2da71aaf440624c40157a80c0eda4298c0aa60b7c76c0"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "fa34a3117af7f8ed553ec563a7c90c1d6462184c7df5b837c831cb482c6ae582"
+metafile = true
+
+[[files]]
+file = "mods/artifacts.pw.toml"
+hash = "eb691b8c327e3a44ce4fc099b19b0a2af8ec0b62de1cb3eaa30d60954a2de692"
+metafile = true
+
+[[files]]
+file = "mods/citadel.pw.toml"
+hash = "e06b4f6a4a5fa7982439f57ca5015b616c606789d9deef0ddb78838b85306fed"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "38cf4a76862812fefc9b1ae0b8fac02b3f706716f3228eb859b511950273e791"
+metafile = true
+
+[[files]]
+file = "mods/create-central-kitchen.pw.toml"
+hash = "b36aa3a2e060c57c754a65487c36ac5fdff6bab8b9b22091d2b754fc0c6683be"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "94186d7b8da8352416a87d4be3c04b69c5dd38d789aef57ce8e6e503ab5389a1"
+metafile = true
+
+[[files]]
+file = "mods/create-jetpack.pw.toml"
+hash = "f63c95fddb8ff4d6cd97c47074c81b4f0fcc6ead631d11a1f44580ad9339f71f"
+metafile = true
+
+[[files]]
+file = "mods/create-liquid-fuel.pw.toml"
+hash = "3af9477a2722ae541be216c83c5b7ccfd257c6811e653ca37d1773b5a2eeecf9"
+metafile = true
+
+[[files]]
+file = "mods/create-power-loader.pw.toml"
+hash = "84862198ea90502b84102b78979865ebe165f4c2dae242f339d836132c1f31c1"
+metafile = true
+
+[[files]]
+file = "mods/create-ratatouille.pw.toml"
+hash = "e001868b8d1334a34497727a64f5913269710d7416fcede1d88c0fbf44ebab9b"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "28cd35abd7f84a4d2f04fb50128bf272cafeac126dbdd6c20cb9c27eb0cd3d76"
+metafile = true
+
+[[files]]
+file = "mods/create-structures.pw.toml"
+hash = "d88d1845469a6f316eede279741cdedfc7489b3bef6c66405fff999e70d6c189"
+metafile = true
+
+[[files]]
+file = "mods/create-utilities.pw.toml"
+hash = "39f884f7ca07f6b390a4b9a5dca7b6e187eebfe03069656fc7f9f9e342c1602d"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "c464b21ac8baf5ed1d22a0c4bacfcf24977e04dc938add65a2a93bcaf704c22e"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "18b1ca556e2221cedba762a96b55df57bb4cf0ad390ed70f2d704b6b286ef679"
+metafile = true
+
+[[files]]
+file = "mods/emi-create-schematics.pw.toml"
+hash = "7ecc65e393564b5a92b012bc8958954f33d6cfb5a44222cf64853dc469324645"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "5fe2b73d33efd03a5b487b10d98415318a89faf63d74965e0402b82b464c0f24"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "32504030cc409f25f4864cb0387b906cd07f1c818301302faddd0de7f777d51c"
+metafile = true
+
+[[files]]
+file = "mods/framedblocks.pw.toml"
+hash = "d40e08f687272753df7c2651b088d4962855cd0082df5bfe5cb20b6f8ca71f25"
+metafile = true
+
+[[files]]
+file = "mods/highlight.pw.toml"
+hash = "ee8e026f46f06f68fa61abfd0e50b195c3348c8ecbbcac8eeb8fc7a05c1219ba"
+metafile = true
+
+[[files]]
+file = "mods/interactive.pw.toml"
+hash = "6864eb4954dc85bacdeffbb8fcf6f0e13d6cc6fd2c0f384cd0a0800e309879aa"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "c0a0a1e85892a9546c1c69761db4d676e8ff63f67dd203b9d1ad1dc0b07d7b0f"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "fab49ce0c16fa78f71c7b39d23a4318055598f1cee0a964781f3b56801e2ed44"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "e10bacddaa7815b0ec925be8e07405f5cc0ae170a2b17bc749928987f0a17f36"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "38eb04b5ae4e429509e8c90fed921719d600166d9be12fcd4f263cce3b117c8a"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "7f7e22ca326e1ddabd7344cd18d71a4099de775b47e9ee75d4be58a64f2c3af4"
+metafile = true
+
+[[files]]
+file = "mods/repurposed-structures-forge.pw.toml"
+hash = "2d1c27606d06a2e46fc45b15ffe97e9acfe67674b43df3c366d326c5e3140d73"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "ccefbc00ed1838907acb5ec379784f9a52a1141c880ef0282e9c079355876702"
+metafile = true
+
+[[files]]
+file = "mods/spice-of-life-valheim-edition.pw.toml"
+hash = "3f1cbf8678ea5cf097b73745c2090719e8f4a33df81f2ac12a3704bf6d25ef5f"
+metafile = true
+
+[[files]]
+file = "mods/storagedrawers.pw.toml"
+hash = "cf933a82aef5731f465dc66028144cd3c52be44287203fd5692e874655841534"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "3c024c63263f4f879d604a01fe13f81119565907f0883f2d7eb53a2cc413546c"
+metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
+hash = "ffa25af53cf0e78b250f5f1a3267c47a763e67b048f18aea8228508240c535f9"
+metafile = true
