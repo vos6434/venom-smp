@@ -51,6 +51,11 @@ hash = "a8031365602209210d97d3ef47ec495c9964c070d8f6a34353004a9d971ccc83"
 metafile = true
 
 [[files]]
+file = "mods/corpse.pw.toml"
+hash = "82cd10f066c07d118ea50c9b7a16496448ce519e687dd25b4cddd4a0f105057e"
+metafile = true
+
+[[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "b36aa3a2e060c57c754a65487c36ac5fdff6bab8b9b22091d2b754fc0c6683be"
 metafile = true
@@ -136,6 +141,11 @@ hash = "5fe2b73d33efd03a5b487b10d98415318a89faf63d74965e0402b82b464c0f24"
 metafile = true
 
 [[files]]
+file = "mods/endrem.pw.toml"
+hash = "5f64aa9d7e7e9411c1b9a6388c249da8782d911f790146b057a5be615fa8bacc"
+metafile = true
+
+[[files]]
 file = "mods/enhanced-attack-indicator.pw.toml"
 hash = "bda35046f0b3d657acc0f32eaaead78999d353e0611f9760016e2c85c567a482"
 metafile = true
@@ -211,6 +221,11 @@ hash = "4a23f59dbb9e3f91c70e382e5865ac844482cddbd791488b94b3c8fd35b5a12f"
 metafile = true
 
 [[files]]
+file = "mods/minibossbars.pw.toml"
+hash = "c5185db4e7bbd81efe142040d60cafdd0904aa2d2ecd069d92304d863fa41ffb"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "004683b6990a62ac42bf370214da457d8ecbab6f35573ae6d3283606df785ef6"
 metafile = true
@@ -256,6 +271,11 @@ hash = "2d1c27606d06a2e46fc45b15ffe97e9acfe67674b43df3c366d326c5e3140d73"
 metafile = true
 
 [[files]]
+file = "mods/screenshot-to-clipboard.pw.toml"
+hash = "520259c531d1308f821d648e71ff88872fa0cd8d3d7f6e1c78b9a1649420deea"
+metafile = true
+
+[[files]]
 file = "mods/selene.pw.toml"
 hash = "344d03a97fa0bf67aece64aceb5256b05493387366764f389b6350d8c41c497f"
 metafile = true
@@ -266,8 +286,18 @@ hash = "ccefbc00ed1838907acb5ec379784f9a52a1141c880ef0282e9c079355876702"
 metafile = true
 
 [[files]]
+file = "mods/slotted-armor-hud.pw.toml"
+hash = "c71b9b28304c1d52a63dcf9de32b5ba5e5727951ad01879b1974001678ed1d51"
+metafile = true
+
+[[files]]
 file = "mods/spice-of-life-valheim-edition.pw.toml"
 hash = "3f1cbf8678ea5cf097b73745c2090719e8f4a33df81f2ac12a3704bf6d25ef5f"
+metafile = true
+
+[[files]]
+file = "mods/spyglass-improvements.pw.toml"
+hash = "09819f64a3800d159fba59cd4e38d3a078a3dc734dd346233e44b149bcc446ec"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Miniboss Bars"
+filename = "minibossbars-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Vzudnf2U/versions/L5fjQYYq/minibossbars-1.1.jar"
+hash-format = "sha1"
+hash = "3cba2fc7a5bf045aa2439888dcdd0ff3e827152b"
+
+[update]
+[update.modrinth]
+mod-id = "Vzudnf2U"
+version = "L5fjQYYq"

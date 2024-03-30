@@ -1,0 +1,13 @@
+name = "Slotted Armor HUD"
+filename = "slotted-armor-hud-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/QcXrixsH/versions/vnIrll1L/slotted-armor-hud-1.0.1.jar"
+hash-format = "sha1"
+hash = "cc4506f71a7cd93a8bdd48d33e8df478446a6b3a"
+
+[update]
+[update.modrinth]
+mod-id = "QcXrixsH"
+version = "vnIrll1L"
