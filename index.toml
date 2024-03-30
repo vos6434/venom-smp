@@ -156,6 +156,11 @@ hash = "e10bacddaa7815b0ec925be8e07405f5cc0ae170a2b17bc749928987f0a17f36"
 metafile = true
 
 [[files]]
+file = "mods/map-atlases-forge.pw.toml"
+hash = "4a23f59dbb9e3f91c70e382e5865ac844482cddbd791488b94b3c8fd35b5a12f"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "004683b6990a62ac42bf370214da457d8ecbab6f35573ae6d3283606df785ef6"
 metafile = true
@@ -178,6 +183,11 @@ metafile = true
 [[files]]
 file = "mods/repurposed-structures-forge.pw.toml"
 hash = "2d1c27606d06a2e46fc45b15ffe97e9acfe67674b43df3c366d326c5e3140d73"
+metafile = true
+
+[[files]]
+file = "mods/selene.pw.toml"
+hash = "344d03a97fa0bf67aece64aceb5256b05493387366764f389b6350d8c41c497f"
 metafile = true
 
 [[files]]
