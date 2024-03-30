@@ -91,6 +91,11 @@ hash = "d88d1845469a6f316eede279741cdedfc7489b3bef6c66405fff999e70d6c189"
 metafile = true
 
 [[files]]
+file = "mods/create-train-perspective-fix.pw.toml"
+hash = "381e689160236c2e1e3c7cb80e6068bc62973c3cc802f145a1fdc3090fd8213a"
+metafile = true
+
+[[files]]
 file = "mods/create-utilities.pw.toml"
 hash = "39f884f7ca07f6b390a4b9a5dca7b6e187eebfe03069656fc7f9f9e342c1602d"
 metafile = true
@@ -113,6 +118,11 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "5fe2b73d33efd03a5b487b10d98415318a89faf63d74965e0402b82b464c0f24"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-attack-indicator.pw.toml"
+hash = "bda35046f0b3d657acc0f32eaaead78999d353e0611f9760016e2c85c567a482"
 metafile = true
 
 [[files]]
@@ -186,6 +196,21 @@ hash = "38eb04b5ae4e429509e8c90fed921719d600166d9be12fcd4f263cce3b117c8a"
 metafile = true
 
 [[files]]
+file = "mods/natures-spirit.pw.toml"
+hash = "2c0ef2c91594cff7e1520aea34571399baffa5efe9f51efe4d82d391dda1b460"
+metafile = true
+
+[[files]]
+file = "mods/numismatic-overhaul.pw.toml"
+hash = "c856fe88e3cf7c1c8ffc85047717b9158e461036e422b5da5f8ec5aecb072671"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
+metafile = true
+
+[[files]]
 file = "mods/quark-oddities.pw.toml"
 hash = "4b6d6900e40ceea949928423e7863817aeb07c17dba719ca45dac34d3f8d5b41"
 metafile = true
@@ -223,6 +248,16 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "f01c641a8380cef661f07a156a9cfa7f008dbd5cc393be2803a7cb5f0a956902"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "15883b352385c520391c036ae0965269c413e3e6fbd6f12dd8c38618db25c2b5"
+metafile = true
+
+[[files]]
+file = "mods/terrestria.pw.toml"
+hash = "d88f78d490fbfe15149a92f5aa1c66f3349cbb35c9599cbf9c4bba88e5ffb53a"
 metafile = true
 
 [[files]]
