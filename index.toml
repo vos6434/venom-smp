@@ -231,6 +231,11 @@ hash = "c856fe88e3cf7c1c8ffc85047717b9158e461036e422b5da5f8ec5aecb072671"
 metafile = true
 
 [[files]]
+file = "mods/oculus.pw.toml"
+hash = "524acd510387c61c5f3c984e605fae03015434ae756b683d3b45a95951180394"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
 metafile = true
@@ -263,6 +268,11 @@ metafile = true
 [[files]]
 file = "mods/spice-of-life-valheim-edition.pw.toml"
 hash = "3f1cbf8678ea5cf097b73745c2090719e8f4a33df81f2ac12a3704bf6d25ef5f"
+metafile = true
+
+[[files]]
+file = "mods/starlight-forge.pw.toml"
+hash = "f343ca4469e393d4055137a1dc228441a80be2a755d634001e037837dd7a56b6"
 metafile = true
 
 [[files]]
