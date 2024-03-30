@@ -41,6 +41,16 @@ hash = "38cf4a76862812fefc9b1ae0b8fac02b3f706716f3228eb859b511950273e791"
 metafile = true
 
 [[files]]
+file = "mods/connector-extras.pw.toml"
+hash = "b1859dc0ec39712165eac3d4dc0dc6b41053b586f2ea088800905069ee34f621"
+metafile = true
+
+[[files]]
+file = "mods/connector.pw.toml"
+hash = "a8031365602209210d97d3ef47ec495c9964c070d8f6a34353004a9d971ccc83"
+metafile = true
+
+[[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "b36aa3a2e060c57c754a65487c36ac5fdff6bab8b9b22091d2b754fc0c6683be"
 metafile = true
@@ -113,6 +123,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "32504030cc409f25f4864cb0387b906cd07f1c818301302faddd0de7f777d51c"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "b157127a0394f1454fea877faccc69f2cca1c53417073b100e786eee7d7423ae"
 metafile = true
 
 [[files]]
