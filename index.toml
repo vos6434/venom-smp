@@ -81,11 +81,6 @@ hash = "84862198ea90502b84102b78979865ebe165f4c2dae242f339d836132c1f31c1"
 metafile = true
 
 [[files]]
-file = "mods/create-ratatouille.pw.toml"
-hash = "e001868b8d1334a34497727a64f5913269710d7416fcede1d88c0fbf44ebab9b"
-metafile = true
-
-[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "28cd35abd7f84a4d2f04fb50128bf272cafeac126dbdd6c20cb9c27eb0cd3d76"
 metafile = true
