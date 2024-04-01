@@ -231,11 +231,6 @@ hash = "38eb04b5ae4e429509e8c90fed921719d600166d9be12fcd4f263cce3b117c8a"
 metafile = true
 
 [[files]]
-file = "mods/natures-spirit.pw.toml"
-hash = "2c0ef2c91594cff7e1520aea34571399baffa5efe9f51efe4d82d391dda1b460"
-metafile = true
-
-[[files]]
 file = "mods/numismatic-overhaul.pw.toml"
 hash = "c856fe88e3cf7c1c8ffc85047717b9158e461036e422b5da5f8ec5aecb072671"
 metafile = true
