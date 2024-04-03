@@ -411,8 +411,8 @@ hash = "a8031365602209210d97d3ef47ec495c9964c070d8f6a34353004a9d971ccc83"
 metafile = true
 
 [[files]]
-file = "mods/controlify.pw.toml"
-hash = "a1659dc663c6e42f1e410b1833594e8f36cd4f7f2dbfc40068f9ed65676af691"
+file = "mods/controllable.pw.toml"
+hash = "a43401d685fc24595cb18e5a51f4fa7af4a4dee2ba7bf7879a08769b037495fa"
 metafile = true
 
 [[files]]
@@ -541,6 +541,11 @@ hash = "d40e08f687272753df7c2651b088d4962855cd0082df5bfe5cb20b6f8ca71f25"
 metafile = true
 
 [[files]]
+file = "mods/framework.pw.toml"
+hash = "67efb201c75f6b864cfaaaf5815bb74ade6f348911906d5ca2868801fcfaf5d4"
+metafile = true
+
+[[files]]
 file = "mods/highlight.pw.toml"
 hash = "ee8e026f46f06f68fa61abfd0e50b195c3348c8ecbbcac8eeb8fc7a05c1219ba"
 metafile = true
@@ -588,6 +593,11 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "004683b6990a62ac42bf370214da457d8ecbab6f35573ae6d3283606df785ef6"
+metafile = true
+
+[[files]]
+file = "mods/motor-assistance.pw.toml"
+hash = "4c30a52c3d1456054d36dae9d140746090e45a20780afb55b90b230e78123a2b"
 metafile = true
 
 [[files]]
@@ -693,11 +703,6 @@ metafile = true
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
 hash = "d0b9e330714c613ba207842facd66054188ad4cb60538f455487a8ca04d1b82a"
-metafile = true
-
-[[files]]
-file = "mods/yacl.pw.toml"
-hash = "39c8b3b0ccbe68dd78ec23666add8a1626494f998a9f43d8128afb60c9dcb5e1"
 metafile = true
 
 [[files]]

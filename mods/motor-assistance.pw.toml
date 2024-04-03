@@ -1,0 +1,13 @@
+name = "Motor Assistance"
+filename = "motorassistance-2.1.0-MC1.20.1-forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PpYYCciX/versions/3yAiQGwC/motorassistance-2.1.0-MC1.20.1-forge.jar"
+hash-format = "sha1"
+hash = "18778a3dcb9a13b89cc0fea50d0e9754e1b16a6f"
+
+[update]
+[update.modrinth]
+mod-id = "PpYYCciX"
+version = "3yAiQGwC"
