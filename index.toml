@@ -361,11 +361,6 @@ file = "config/alexsmobs/warped_toad_spawns.json"
 hash = "72126b26d7f3ae03b80df97dd103e0cec87d10829e86ac8b08da23abc7b318d8"
 
 [[files]]
-file = "mods/3dskinlayers.pw.toml"
-hash = "7318b31316fd07d9389d03e0cf62bfeff8ec92c869ab5bea0a7a3aa4508790bc"
-metafile = true
-
-[[files]]
 file = "mods/alexs-caves.pw.toml"
 hash = "ec436a1f3378f8bd08ccd02e0ee74c441ff51d73bb62d446f6123eb2d6ebed6b"
 metafile = true
@@ -388,21 +383,6 @@ metafile = true
 [[files]]
 file = "mods/artifacts.pw.toml"
 hash = "eb691b8c327e3a44ce4fc099b19b0a2af8ec0b62de1cb3eaa30d60954a2de692"
-metafile = true
-
-[[files]]
-file = "mods/blueprint.pw.toml"
-hash = "36cfe23c658f8819d1857769c59829f22f98bc594a65eb97f8df4bdd6c432ec5"
-metafile = true
-
-[[files]]
-file = "mods/buzzier-bees.pw.toml"
-hash = "d922768e2b70ad98fcbfb9954f14d1111f30f7e526e76ae864c3b27c33d3aaeb"
-metafile = true
-
-[[files]]
-file = "mods/caelus.pw.toml"
-hash = "958d92f2c763942e7846f4c77b675c126cc8738a1dbc1a6f53390fa0d44b1a10"
 metafile = true
 
 [[files]]
@@ -431,8 +411,8 @@ hash = "a8031365602209210d97d3ef47ec495c9964c070d8f6a34353004a9d971ccc83"
 metafile = true
 
 [[files]]
-file = "mods/controllable.pw.toml"
-hash = "a43401d685fc24595cb18e5a51f4fa7af4a4dee2ba7bf7879a08769b037495fa"
+file = "mods/controlify.pw.toml"
+hash = "a1659dc663c6e42f1e410b1833594e8f36cd4f7f2dbfc40068f9ed65676af691"
 metafile = true
 
 [[files]]
@@ -443,11 +423,6 @@ metafile = true
 [[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "2491a4f1b76a1aeee3578a530ec6c62449c0b585707dd98458cd84b450417e8c"
-metafile = true
-
-[[files]]
-file = "mods/create-deco.pw.toml"
-hash = "3054a4c846f399e23a8f06d2460e0c6a9ff32f8c5341e500098b59a4db0c71f2"
 metafile = true
 
 [[files]]
@@ -481,11 +456,6 @@ hash = "d88d1845469a6f316eede279741cdedfc7489b3bef6c66405fff999e70d6c189"
 metafile = true
 
 [[files]]
-file = "mods/create-teleporters.pw.toml"
-hash = "5ba342e709f7395a8aea98d9487c442ae4ebbb1157189537a3218cceb8122441"
-metafile = true
-
-[[files]]
 file = "mods/create-train-perspective-fix.pw.toml"
 hash = "381e689160236c2e1e3c7cb80e6068bc62973c3cc802f145a1fdc3090fd8213a"
 metafile = true
@@ -508,21 +478,6 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "18b1ca556e2221cedba762a96b55df57bb4cf0ad390ed70f2d704b6b286ef679"
-metafile = true
-
-[[files]]
-file = "mods/drink-beer-refill.pw.toml"
-hash = "1da2a6085071ca3a731c95785d094a8d27763ff8f33b1302e529c7ea5ccb1e3d"
-metafile = true
-
-[[files]]
-file = "mods/dustrial-decor.pw.toml"
-hash = "f55c33bbcf1b7d49b0ab93345a4e311f36c30f7c3177cf5c70d91c973a95c029"
-metafile = true
-
-[[files]]
-file = "mods/elytra-slot.pw.toml"
-hash = "b6f44d5d64a041adcad7fd12f542d6dab5ba164f009650ef5b950d0287f7b252"
 metafile = true
 
 [[files]]
@@ -586,11 +541,6 @@ hash = "d40e08f687272753df7c2651b088d4962855cd0082df5bfe5cb20b6f8ca71f25"
 metafile = true
 
 [[files]]
-file = "mods/framework.pw.toml"
-hash = "67efb201c75f6b864cfaaaf5815bb74ade6f348911906d5ca2868801fcfaf5d4"
-metafile = true
-
-[[files]]
 file = "mods/highlight.pw.toml"
 hash = "ee8e026f46f06f68fa61abfd0e50b195c3348c8ecbbcac8eeb8fc7a05c1219ba"
 metafile = true
@@ -641,11 +591,6 @@ hash = "004683b6990a62ac42bf370214da457d8ecbab6f35573ae6d3283606df785ef6"
 metafile = true
 
 [[files]]
-file = "mods/motor-assistance.pw.toml"
-hash = "4c30a52c3d1456054d36dae9d140746090e45a20780afb55b90b230e78123a2b"
-metafile = true
-
-[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "38eb04b5ae4e429509e8c90fed921719d600166d9be12fcd4f263cce3b117c8a"
 metafile = true
@@ -688,11 +633,6 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "344d03a97fa0bf67aece64aceb5256b05493387366764f389b6350d8c41c497f"
-metafile = true
-
-[[files]]
-file = "mods/sensible-sleepiness.pw.toml"
-hash = "96fc5b4a91249df029c18e84997dd5b9f7c7f9414e89acfb417b90d86b137854"
 metafile = true
 
 [[files]]
@@ -746,11 +686,6 @@ hash = "dd36b047f5c37c2795e4da43b6fe08e267ea1ec6f5a909790b01483d1613502c"
 metafile = true
 
 [[files]]
-file = "mods/the-bumblezone.pw.toml"
-hash = "0e53135656b2717365a90bef83c0e433664fdf144927dbc33347f091f91479a9"
-metafile = true
-
-[[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "3c024c63263f4f879d604a01fe13f81119565907f0883f2d7eb53a2cc413546c"
 metafile = true
@@ -758,6 +693,11 @@ metafile = true
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
 hash = "d0b9e330714c613ba207842facd66054188ad4cb60538f455487a8ca04d1b82a"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "39c8b3b0ccbe68dd78ec23666add8a1626494f998a9f43d8128afb60c9dcb5e1"
 metafile = true
 
 [[files]]
