@@ -641,11 +641,6 @@ hash = "c5185db4e7bbd81efe142040d60cafdd0904aa2d2ecd069d92304d863fa41ffb"
 metafile = true
 
 [[files]]
-file = "mods/modular-item-api.pw.toml"
-hash = "4efbaab1ea56c6d3b82ab35818359a01b18b07d2cb666aeabaf3c64ff937f440"
-metafile = true
-
-[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "004683b6990a62ac42bf370214da457d8ecbab6f35573ae6d3283606df785ef6"
 metafile = true
@@ -698,6 +693,11 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "344d03a97fa0bf67aece64aceb5256b05493387366764f389b6350d8c41c497f"
+metafile = true
+
+[[files]]
+file = "mods/sensible-sleepiness.pw.toml"
+hash = "96fc5b4a91249df029c18e84997dd5b9f7c7f9414e89acfb417b90d86b137854"
 metafile = true
 
 [[files]]
@@ -758,16 +758,6 @@ metafile = true
 [[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "3c024c63263f4f879d604a01fe13f81119565907f0883f2d7eb53a2cc413546c"
-metafile = true
-
-[[files]]
-file = "mods/truly-modular-archery.pw.toml"
-hash = "4944e52902d9f333808c9c9ee4e02d84569e8355cb12d111d8b5e6eb10a2efaf"
-metafile = true
-
-[[files]]
-file = "mods/truly-modular-arsenal.pw.toml"
-hash = "eacb961573987a22c8d0f7843f5074a109bce07ce9499f74942e5f1e03146309"
 metafile = true
 
 [[files]]
