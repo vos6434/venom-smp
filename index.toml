@@ -701,11 +701,6 @@ hash = "344d03a97fa0bf67aece64aceb5256b05493387366764f389b6350d8c41c497f"
 metafile = true
 
 [[files]]
-file = "mods/sensible-sleepiness.pw.toml"
-hash = "96fc5b4a91249df029c18e84997dd5b9f7c7f9414e89acfb417b90d86b137854"
-metafile = true
-
-[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "ccefbc00ed1838907acb5ec379784f9a52a1141c880ef0282e9c079355876702"
 metafile = true
