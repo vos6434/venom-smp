@@ -361,6 +361,11 @@ file = "config/alexsmobs/warped_toad_spawns.json"
 hash = "72126b26d7f3ae03b80df97dd103e0cec87d10829e86ac8b08da23abc7b318d8"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "7318b31316fd07d9389d03e0cf62bfeff8ec92c869ab5bea0a7a3aa4508790bc"
+metafile = true
+
+[[files]]
 file = "mods/alexs-caves.pw.toml"
 hash = "ec436a1f3378f8bd08ccd02e0ee74c441ff51d73bb62d446f6123eb2d6ebed6b"
 metafile = true
@@ -383,6 +388,16 @@ metafile = true
 [[files]]
 file = "mods/artifacts.pw.toml"
 hash = "eb691b8c327e3a44ce4fc099b19b0a2af8ec0b62de1cb3eaa30d60954a2de692"
+metafile = true
+
+[[files]]
+file = "mods/blueprint.pw.toml"
+hash = "36cfe23c658f8819d1857769c59829f22f98bc594a65eb97f8df4bdd6c432ec5"
+metafile = true
+
+[[files]]
+file = "mods/buzzier-bees.pw.toml"
+hash = "d922768e2b70ad98fcbfb9954f14d1111f30f7e526e76ae864c3b27c33d3aaeb"
 metafile = true
 
 [[files]]
@@ -496,6 +511,16 @@ hash = "18b1ca556e2221cedba762a96b55df57bb4cf0ad390ed70f2d704b6b286ef679"
 metafile = true
 
 [[files]]
+file = "mods/drink-beer-refill.pw.toml"
+hash = "1da2a6085071ca3a731c95785d094a8d27763ff8f33b1302e529c7ea5ccb1e3d"
+metafile = true
+
+[[files]]
+file = "mods/dustrial-decor.pw.toml"
+hash = "f55c33bbcf1b7d49b0ab93345a4e311f36c30f7c3177cf5c70d91c973a95c029"
+metafile = true
+
+[[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "b6f44d5d64a041adcad7fd12f542d6dab5ba164f009650ef5b950d0287f7b252"
 metafile = true
@@ -563,6 +588,11 @@ metafile = true
 [[files]]
 file = "mods/framework.pw.toml"
 hash = "67efb201c75f6b864cfaaaf5815bb74ade6f348911906d5ca2868801fcfaf5d4"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "5896fbed8723b44f83a2d81f4fbf9fe3bd601fedc5b20a30550e14a15965e40c"
 metafile = true
 
 [[files]]
@@ -713,6 +743,11 @@ metafile = true
 [[files]]
 file = "mods/textrues-embeddium-options.pw.toml"
 hash = "dd36b047f5c37c2795e4da43b6fe08e267ea1ec6f5a909790b01483d1613502c"
+metafile = true
+
+[[files]]
+file = "mods/the-bumblezone.pw.toml"
+hash = "c9e8b8779fff76abdf4e0d2450854bd4fe0e2bc61c1aa1e6fd4cbc5e8d8a8898"
 metafile = true
 
 [[files]]
