@@ -774,10 +774,6 @@ file = "options.txt"
 hash = "bf8db4f2945023a0f41fe0c4c9cd3e0c635ab2b0221d226e06a45409fdc4ce43"
 
 [[files]]
-file = "options.txt OLD"
-hash = "d171f6f588d796dc706e7da8c0ba2862b96e0f9b73b3ab2e9d0f9a6e475504f8"
-
-[[files]]
 file = "resourcepacks/Modpack Resources/assets/minecraft/textures/gui/icons.png"
 hash = "1fb1f96e17a5bc9f5d10f5b83f3374e15d2e8d19ff40e014309d4488c882ee3e"
 
