@@ -361,6 +361,10 @@ file = "config/alexsmobs/warped_toad_spawns.json"
 hash = "72126b26d7f3ae03b80df97dd103e0cec87d10829e86ac8b08da23abc7b318d8"
 
 [[files]]
+file = "config/quark-common.toml"
+hash = "cbcbe4f46ff161d54bcd9ce89c3eeaa0b8658464521a961e0a83fb1a832c69e3"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "7318b31316fd07d9389d03e0cf62bfeff8ec92c869ab5bea0a7a3aa4508790bc"
 metafile = true
@@ -764,3 +768,131 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "ffa25af53cf0e78b250f5f1a3267c47a763e67b048f18aea8228508240c535f9"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "bf8db4f2945023a0f41fe0c4c9cd3e0c635ab2b0221d226e06a45409fdc4ce43"
+
+[[files]]
+file = "options.txt OLD"
+hash = "d171f6f588d796dc706e7da8c0ba2862b96e0f9b73b3ab2e9d0f9a6e475504f8"
+
+[[files]]
+file = "resourcepacks/Modpack Resources/assets/minecraft/textures/gui/icons.png"
+hash = "1fb1f96e17a5bc9f5d10f5b83f3374e15d2e8d19ff40e014309d4488c882ee3e"
+
+[[files]]
+file = "resourcepacks/Modpack Resources/assets/toms_storage/models/block/cable_connector/base.json"
+hash = "de2bd82773201064a563f46dead3a5db87f47de94aaf36b25321659a06ffc571"
+
+[[files]]
+file = "resourcepacks/Modpack Resources/assets/toms_storage/models/block/cable_connector/item.json"
+hash = "c28c94095d018fe2402c2e0cb7cc1f783488ce12662f7ed36adef49e9485efd1"
+
+[[files]]
+file = "resourcepacks/Modpack Resources/assets/toms_storage/models/block/crafting_terminal.json"
+hash = "2e2d162478d4f20a71c73861b475d8f1e1bee19a5203602a55de30b5b36c5d07"
+
+[[files]]
+file = "resourcepacks/Modpack Resources/assets/toms_storage/models/block/inventory_connector.json"
+hash = "2bad73291c6e634fc4cbdd3833fb890b1e0ce472cf04221698b699960be80454"
+
+[[files]]
+file = "resourcepacks/Modpack Resources/assets/toms_storage/models/block/inventory_hopper_basic.json"
+hash = "e62804aab5f5ca02aa28afcdbf304c3a4e20f3f852a809aaea7c074ec0504f36"
+
+[[files]]
+file = "resourcepacks/Modpack Resources/assets/toms_storage/models/block/inventory_proxy.json"
+hash = "1e117fcb3c74b1d2a45ed8c92472255bca3c0c9287cd7596a82104d0211a706e"
+
+[[files]]
+file = "resourcepacks/Modpack Resources/assets/toms_storage/models/block/level_emitter_off.json"
+hash = "54917d94e2ec3024385aa7c674b8d6fdfb0fc4506170aae61ecacdf428e911ac"
+
+[[files]]
+file = "resourcepacks/Modpack Resources/assets/toms_storage/models/block/level_emitter_on.json"
+hash = "f0793eb06ae108fb1a3f1b94dd743b2ef3b40c9fb784c9f25ec5d01a218b001b"
+
+[[files]]
+file = "resourcepacks/Modpack Resources/assets/toms_storage/models/block/storage_terminal.json"
+hash = "84840644258c3d718dc1217a88165d32cbb144ac53cbb6e6ddaf7061550f46a6"
+
+[[files]]
+file = "resourcepacks/Modpack Resources/assets/toms_storage/models/block/trim.json"
+hash = "b83e65265d5ce32c91b5689da089bc00112bd75b670dce24e8e2af9f35e05a19"
+
+[[files]]
+file = "resourcepacks/Modpack Resources/assets/toms_storage/textures/block/crafting_link.png"
+hash = "48a53dcfbe96b46959e515296e8b10b2bc8575f0049aba34d0c85e7471491898"
+
+[[files]]
+file = "resourcepacks/Modpack Resources/assets/toms_storage/textures/block/hopper.png"
+hash = "3f8a6b1b9a8365bfb786ccf2e58f06571e9758e66b93e70fbdd41c9f8babac2c"
+
+[[files]]
+file = "resourcepacks/Modpack Resources/assets/toms_storage/textures/block/inventory_cable.png"
+hash = "f4ee7b2005fe9b4260e21993f6e2299f51e6a9f6076ec0955bdb8d6c7f6e2056"
+
+[[files]]
+file = "resourcepacks/Modpack Resources/assets/toms_storage/textures/block/keyboard.png"
+hash = "2f26017444c82e412be9f6f504f82c6eb215af207208b45c409682ed0d7a7a5c"
+
+[[files]]
+file = "resourcepacks/Modpack Resources/assets/toms_storage/textures/block/opencrate_bottom.png"
+hash = "a6c98176d32d57076c7a906badfd0275838a4bd859d4c8754c8acd27b8775e9b"
+
+[[files]]
+file = "resourcepacks/Modpack Resources/assets/toms_storage/textures/block/opencrate_side.png"
+hash = "6d9a8013a7d46e6d3af1178202e16f9765de4bbff7b8cff04f45e237675b2c54"
+
+[[files]]
+file = "resourcepacks/Modpack Resources/assets/toms_storage/textures/block/opencrate_top.png"
+hash = "d0e383fc903cfd1c37f1e54de2fdb20a569c7779a3efe096475c1f29e9de228c"
+
+[[files]]
+file = "resourcepacks/Modpack Resources/assets/toms_storage/textures/block/proxy_side.png"
+hash = "3b860034cf23a13e36b6b2a31bb9c5435c656ce90184acb88a8f8fb22232b17a"
+
+[[files]]
+file = "resourcepacks/Modpack Resources/assets/toms_storage/textures/block/proxy_top.png"
+hash = "d8fc1c0faa8e61b45f66eb114cd5d247e692c5a63057142d35f04c147ccc7f44"
+
+[[files]]
+file = "resourcepacks/Modpack Resources/assets/toms_storage/textures/block/terminal_link.png"
+hash = "79c26cf20110a8e22f5860814577145846fb5578a5ad80c795e15210403c9738"
+
+[[files]]
+file = "resourcepacks/Modpack Resources/assets/toms_storage/textures/block/trim.png"
+hash = "093e2ca74695222dfe16afc6efef3fcca0af8b875f4ba2f1f7e9c908eba394b5"
+
+[[files]]
+file = "resourcepacks/Modpack Resources/assets/toms_storage/textures/item/adv_wireless_terminal.png"
+hash = "060161bd209cb7ff6c1649f5d9dbb0de84531e854f65cdc3047d4ad6fef75ec1"
+
+[[files]]
+file = "resourcepacks/Modpack Resources/assets/toms_storage/textures/item/item_filter.png"
+hash = "4eb9e863b228cf422f46fe4e5ac7118a6749b4eef659fa5a1ce4421a7f6b7cb3"
+
+[[files]]
+file = "resourcepacks/Modpack Resources/assets/toms_storage/textures/item/paint_kit.png"
+hash = "c1b460c77205ca1688e7ad491d4f3a5b04340f3836640501485335cfffddba5c"
+
+[[files]]
+file = "resourcepacks/Modpack Resources/assets/toms_storage/textures/item/poly_item_filter.png"
+hash = "dcd61999850ad73bacb208e08f170601d29238bf0b1a5ba70ab8d7f866603a93"
+
+[[files]]
+file = "resourcepacks/Modpack Resources/assets/toms_storage/textures/item/tag_item_filter.png"
+hash = "d12225b611caf3aaa8d026df4b9302a10f470764625f20a3506b0ce8a21a7acd"
+
+[[files]]
+file = "resourcepacks/Modpack Resources/assets/toms_storage/textures/item/wireless_terminal.png"
+hash = "7010330160f4af3b97c2cd99ef529b724dffa11a320e99cc202fff51aae7227c"
+
+[[files]]
+file = "resourcepacks/Modpack Resources/pack.mcmeta"
+hash = "7d88f061daf687074ec2841fe932201b0ca3843c0bf07422f95354f3cda2f977"
+
+[[files]]
+file = "resourcepacks/Modpack Resources/pack.png"
+hash = "34243b224e0b9fba1eddf8271129d000803a2c567c20718f82e086760c085704"
