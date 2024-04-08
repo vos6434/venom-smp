@@ -377,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "eb862320d6a4e793b69ea05b292193bbd90910b3f415f6697438710f48a4246c"
+hash = "1137ff9221efcd830244669be73113756304ef7664e70acdbda9779a123de7aa"
 metafile = true
 
 [[files]]
@@ -387,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/artifacts.pw.toml"
-hash = "eb691b8c327e3a44ce4fc099b19b0a2af8ec0b62de1cb3eaa30d60954a2de692"
+hash = "418fd39678c41ef37ea1f3e14a3572f21d6409d950a3765697a5aa38429f93b5"
 metafile = true
 
 [[files]]
@@ -427,7 +427,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "a8031365602209210d97d3ef47ec495c9964c070d8f6a34353004a9d971ccc83"
+hash = "de98aa581a459eb2a37a106074b4379982983e93ba72bbf69235b050f9970cb3"
 metafile = true
 
 [[files]]
@@ -442,7 +442,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-central-kitchen.pw.toml"
-hash = "2491a4f1b76a1aeee3578a530ec6c62449c0b585707dd98458cd84b450417e8c"
+hash = "dc9b6077e233adda9597eb5dc7a07921125f834e54c2970038501bd5cfb60235"
 metafile = true
 
 [[files]]
@@ -507,7 +507,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "18b1ca556e2221cedba762a96b55df57bb4cf0ad390ed70f2d704b6b286ef679"
+hash = "081a3fa7ade240d44ffb56243d3e7fa62c73d5244b5a5dc1fa36bfb38da73b77"
 metafile = true
 
 [[files]]
@@ -562,7 +562,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "1eece46dbaa953c27cb398180534bc71bffc0fc40bced2718aeaeb929a402647"
+hash = "9fba607c5fa295ca8f9dd850df194dfe5502c67a4d9d2dd861a2a2f63b5a4e17"
 metafile = true
 
 [[files]]
@@ -577,7 +577,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "b157127a0394f1454fea877faccc69f2cca1c53417073b100e786eee7d7423ae"
+hash = "83715cff2ef9636b83839b099f4da1392c90dcf6a9a00c8d896624f3660302cd"
 metafile = true
 
 [[files]]
@@ -747,7 +747,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-bumblezone.pw.toml"
-hash = "c9e8b8779fff76abdf4e0d2450854bd4fe0e2bc61c1aa1e6fd4cbc5e8d8a8898"
+hash = "5397e83014bce3af1914748d5436b0f5df01f61ec261ee332f187b08e76fb963"
 metafile = true
 
 [[files]]
