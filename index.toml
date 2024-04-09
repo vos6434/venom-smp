@@ -381,7 +381,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "1137ff9221efcd830244669be73113756304ef7664e70acdbda9779a123de7aa"
+hash = "afd0eb4e69a38198dcdb2331e6f3e59ee86f38bd61a8abd744018b1ec485f664"
 metafile = true
 
 [[files]]
@@ -476,7 +476,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "28cd35abd7f84a4d2f04fb50128bf272cafeac126dbdd6c20cb9c27eb0cd3d76"
+hash = "c3be39518899b51cd7a572cc1bae67b0245a03114e9ed17077412972120c7a40"
 metafile = true
 
 [[files]]
@@ -511,7 +511,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "081a3fa7ade240d44ffb56243d3e7fa62c73d5244b5a5dc1fa36bfb38da73b77"
+hash = "1afeb7b9e5493fd32885fd2a5b3a53cbd72d687e3d7975737e45b97163879c88"
 metafile = true
 
 [[files]]
@@ -566,7 +566,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "9fba607c5fa295ca8f9dd850df194dfe5502c67a4d9d2dd861a2a2f63b5a4e17"
+hash = "947b6695e174200eb6f620ba97f5826f0111d99f17ae1af0ad067d7836325619"
 metafile = true
 
 [[files]]
@@ -646,7 +646,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "004683b6990a62ac42bf370214da457d8ecbab6f35573ae6d3283606df785ef6"
+hash = "96d14c43e700149228e07e317d4149c390395a7977fc9f1c580b259f6c578050"
 metafile = true
 
 [[files]]
@@ -696,7 +696,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "344d03a97fa0bf67aece64aceb5256b05493387366764f389b6350d8c41c497f"
+hash = "97fd1d597edf2cbcc76b9cae87acf412670496b198ec6c4823634b87e6955e71"
 metafile = true
 
 [[files]]
@@ -766,7 +766,7 @@ metafile = true
 
 [[files]]
 file = "mods/zeta.pw.toml"
-hash = "ffa25af53cf0e78b250f5f1a3267c47a763e67b048f18aea8228508240c535f9"
+hash = "25261a1d74a9e47eed9de26509f02f1c6c4f11ef93b2237a4c3ae6d6760ecf46"
 metafile = true
 
 [[files]]
