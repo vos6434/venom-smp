@@ -361,6 +361,10 @@ file = "config/alexsmobs/warped_toad_spawns.json"
 hash = "72126b26d7f3ae03b80df97dd103e0cec87d10829e86ac8b08da23abc7b318d8"
 
 [[files]]
+file = "config/map_atlases-common.toml"
+hash = "cfe8928d576a605add266d82870fbfdb3b827afdb0d685f650633e19bc51de89"
+
+[[files]]
 file = "config/quark-common.toml"
 hash = "cbcbe4f46ff161d54bcd9ce89c3eeaa0b8658464521a961e0a83fb1a832c69e3"
 
